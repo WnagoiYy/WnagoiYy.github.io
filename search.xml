@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>1.1 HTML基础知识</title>
+      <link href="/2020/07/12/1-1-HTML%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+      <url>/2020/07/12/1-1-HTML%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</url>
+      
+        <content type="html"><![CDATA[<p>HTML: HyperText Markup Language—超文本标记语言，是一种用于创建网页的标准标记语言。网页浏览器可以读取HTML文件，并将其渲染成可视化网页。其中HTML元素是构建网站的基石，它被用来结构化信息—例如标题、段落和列表等等。</p><h2 id="1-HTML的历史"><a href="#1-HTML的历史" class="headerlink" title="1.HTML的历史"></a>1.HTML的历史</h2><ul><li>1980年，物理学家伯纳斯-李在欧洲核子研究中心（CERN）在承包工程期间，为使CERN的研究人员使用并共享文档，他提出并创建原型系统ENQUIRE。</li><li>1989年，伯纳斯-李在一份备忘录中提出一个基于互联网的超文本系统。他规定HTML并在1990年底写出浏览器和服务器软件。</li><li>1991年底，伯纳斯-李在一个名为HTML Tags的文件中首次公开描述HTML，它描述18个元素，包括HTML初始的、相对简单的设计。</li><li>1993年中期互联网工程任务组（IETF）发布首个HTML规范的提案：“超文本标记语言（HTML）”互联网草案，由伯纳斯-李与丹·康纳利撰写。</li><li>1994年初到期后，IETF创建一个HTML工作组，并在1995年完成”HTML 2.0”，这是第一个旨在成为对其后续实现标准的依据的HTML规范。</li><li>1999年末发布HTML 4.01，2000年，HTML也成为国际标准（ISO/ IEC15445：2000），进一步的勘误版本于2001年发布。</li><li>2004年，网页超文本应用技术工作小组（WHATWG）开始开发HTML5，并在2008年与W3C共同交付，2014年10月28日完成标准化。</li></ul><h2 id="2-HTML标签-元素"><a href="#2-HTML标签-元素" class="headerlink" title="2.HTML标签/元素"></a>2.HTML标签/元素</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2019/07/14/hello-world/"/>
       <url>/2019/07/14/hello-world/</url>
