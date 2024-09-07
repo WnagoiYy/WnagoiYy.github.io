@@ -7,7 +7,7 @@ on:
  
 jobs:
   build:
-    if: "! contains(github.event.head_commit.message, 'Upload')"
+    if: "! contains(github.event.head_commit.message, 'Delete Post Draft') && ! contains(github.event.head_commit.message, 'Save Post Draft') && ! contains(github.event.head_commit.message, 'Upload')"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
