@@ -89,3 +89,6 @@ https://insectmk.cn/posts/637bb1fe/#%E7%94%A8%E6%88%B7%E9%85%8D%E7%BD%AE
 
 Butterfly解决Gitalk密钥暴露的问题 | 你所不知道的物語;
 https://www.hitagi.icu/posts/17b458ca/#%E9%97%AE%E9%A2%98%E5%88%86%E6%9E%90
+
+HEXO系列教程 | 使用GitHub Actions部署Hexo / GitHub Pages | 全流程详细介绍 – 夜梦星尘の折腾日记
+https://tech.yemengstar.com/github-actions-auto-hexo/
