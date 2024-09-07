@@ -915,8 +915,25 @@ $fonts-monospace: JetBrainsMono, "Source Code Pro", Monaco, Menlo, Consolas, "Co
 	font-weight: 600;
     src: url('/css/sf-mono-medium.woff2') format("woff2");
 }*/
-@font-face{font-family:'SF Mono';src:url('sf-mono-bold.woff2') format('woff2'),url('sf-mono-bold.woff') format('woff');font-weight:700;font-style:normal}@font-face{font-family:'SF Mono';src:url('sf-mono-bolditalic.woff2') format('woff2'),url('sf-mono-bolditalic.woff') format('woff');font-weight:700;font-style:italic}@font-face{font-family:'SF Mono';src:url('sf-mono-heavy.woff2') format('woff2'),url('sf-mono-heavy.woff') format('woff');font-weight:400;font-style:normal}@font-face{font-family:'SF Mono';src:url('sf-mono-heavyitalic.woff2') format('woff2'),url('sf-mono-heavyitalic.woff') format('woff');font-weight:400;font-style:italic}@font-face{font-family:'SF Mono';src:url('sf-mono-light.woff2') format('woff2'),url('sf-mono-light.woff') format('woff');font-weight:400;font-style:normal}@font-face{font-family:'SF Mono';src:url('sf-mono-lightitalic.woff2') format('woff2'),url('sf-mono-lightitalic.woff') format('woff');font-weight:400;font-style:italic}@font-face{font-family:'SF Mono';src:url('sf-mono-medium.woff2') format('woff2'),url('sf-mono-medium.woff') format('woff');font-weight:400;font-style:normal}@font-face{font-family:'SF Mono';src:url('sf-mono-mediumitalic.woff2') format('woff2'),url('sf-mono-mediumitalic.woff') format('woff');font-weight:400;font-style:italic}@font-face{font-family:'SF Mono';src:url('sf-mono-regular.woff2') format('woff2'),url('sf-mono-regular.woff') format('woff');font-weight:400;font-style:normal}@font-face{font-family:'SF Mono';src:url('sf-mono-regularitalic.woff2') format('woff2'),url('sf-mono-regularitalic.woff') format('woff');font-weight:400;font-style:italic}@font-face{font-family:'SF Mono';src:url('sf-mono-semibold.woff2') format('woff2'),url('sf-mono-semibold.woff') format('woff');font-weight:700;font-style:normal}@font-face{font-family:'SF Mono';src:url('sf-mono-semibolditalic.woff2') format('woff2'),url('sf-mono-semibolditalic.woff') format('woff');font-weight:700;font-style:italic}
+@font-face{font-family:'SF Mono';src:url('sf-mono-bold.woff2') format('woff2'),url('sf-mono-bold.woff') format('woff');
+	   font-weight:700;font-style:normal}
+@font-face{font-family:'SF Mono';src:url('sf-mono-bolditalic.woff2') format('woff2'),url('sf-mono-bolditalic.woff') format('woff');
+	   font-weight:700;font-style:italic}@font-face{font-family:'SF Mono';src:url('sf-mono-heavy.woff2') format('woff2'),	url('sf-mono-heavy.woff') format('woff');font-weight:400;font-style:normal}
+@font-face{font-family:'SF Mono';src:url('sf-mono-heavyitalic.woff2') format('woff2'),	url('sf-mono-heavyitalic.woff') format('woff');font-weight:400;font-style:italic}
+@font-face{font-family:'SF Mono';src:url('sf-mono-light.woff2') format('woff2'),url('sf-mono-light.woff') format('woff');
+	   font-weight:400;font-style:normal}
+@font-face{font-family:'SF Mono';
+	   src:url('sf-mono-lightitalic.woff2') format('woff2'),url('sf-mono-lightitalic.woff') format('woff');
+	   font-weight:400;font-style:italic}
+@font-face{font-family:'SF Mono';src:url('sf-mono-medium.woff2') format('woff2'),url('sf-mono-medium.woff') format('woff');
+	   font-weight:400;font-style:normal}
+@font-face{font-family:'SF Mono';
+	   src:url('sf-mono-mediumitalic.woff2') format('woff2'),url('sf-mono-mediumitalic.woff') format('woff');
+	   font-weight:400;font-style:italic}
+@font-face{font-family:'SF Mono';
+	   src:url('sf-mono-regular.woff2') format('woff2'),url('sf-mono-regular.woff') format('woff');
+	   font-weight:400;font-style:normal}@font-face{font-family:'SF Mono';src:url('sf-mono-regularitalic.woff2') format('woff2'),url('sf-mono-regularitalic.woff') format('woff');font-weight:400;font-style:italic}@font-face{font-family:'SF Mono';src:url('sf-mono-semibold.woff2') format('woff2'),url('sf-mono-semibold.woff') format('woff');font-weight:700;font-style:normal}@font-face{font-family:'SF Mono';src:url('sf-mono-semibolditalic.woff2') format('woff2'),url('sf-mono-semibolditalic.woff') format('woff');font-weight:700;font-style:italic}
 /*# sourceMappingURL=/sm/ce1c382ea79df38458d3e13f3da959d9d37f105cfd46a0e4366a8e7faa8bb56e.map */
 code,pre,.code{
-  font-family: "SFMono" !important;
+  font-family: "SF Mono" !important;
 }
