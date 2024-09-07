@@ -92,3 +92,7 @@ https://www.hitagi.icu/posts/17b458ca/#%E9%97%AE%E9%A2%98%E5%88%86%E6%9E%90
 
 HEXO系列教程 | 使用GitHub Actions部署Hexo / GitHub Pages | 全流程详细介绍 – 夜梦星尘の折腾日记
 https://tech.yemengstar.com/github-actions-auto-hexo/
+
+
+Butterfly 主题配置 bug 记录（更新中） | 悠悠の哉
+https://qmike.top/posts/7e01226e
