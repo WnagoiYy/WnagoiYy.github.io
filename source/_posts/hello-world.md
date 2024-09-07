@@ -125,9 +125,28 @@ https://blog.btwoa.com/2qe37d61/
 Hexo+GitHub搭建个人博客，实现云端编辑、一键发文 - 甜点cc - 博客园
 https://www.cnblogs.com/all-smile/p/16608503.html
 
+在 hexo-theme-fluid 上使用自定义字体 | 化猫の幻
+https://blog.h3a.moe/src/d07607/#%E5%BC%95%E5%85%A5%E8%87%AA%E5%AE%9A%E4%B9%89-CSS
+
+hexo butterfly主题下更换字体 | ZHI'S BLOG
+https://jingzhi1208.github.io/2021/11/26/hexo-butterfly%E4%B8%BB%E9%A2%98%E4%B8%8B%E6%9B%B4%E6%8D%A2%E5%AD%97%E4%BD%93/
+
+
+免费引入商用黑体字体系列整理及 CSS 字体引入亲妈式教程（20230606更新） – 风记星辰
+https://www.thyuu.com/62610
+
+首页 | Butterfly主题美化教程
+https://butterfly.zhheo.com/
+
+
+本站更换了鸿蒙Sans字体_博客字体_华为鸿蒙字体下载_HarmonyOS_Sans_小米字体MiSans_woff2 - 陶小桃Blog
+https://www.52txr.cn/2022/HarmonyFont.html
+
+
     "hexo-renderer-typst": "^0.5.0-rc7",
 	
-	
+git pull origin gh-pages
+
 git add . & git commit -m "夜梦又更新hexo了" & git push origin gh-pages
 
 $fonts-sans-serif: Roboto, Helvetica, Tahoma, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", "Noto Sans CJK", sans-serif;
