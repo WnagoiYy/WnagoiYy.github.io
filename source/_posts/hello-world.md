@@ -116,7 +116,18 @@ https://blog.csdn.net/m0_57545353/article/details/128807337
 后台
 https://qexo-jqhyrcpyq-wnagoiyys-projects.vercel.app/login/?next=/
 
+HEXO系列教程 | 将Qexo接入Hexo，实现静态博客的动态管理！ – 夜梦星尘の折腾日记
+https://tech.yemengstar.com/hexo-use-qexo-to-manage/
 
+为Hexo部署在线编辑器 | Qexo | 放养平凡
+https://blog.btwoa.com/2qe37d61/
+
+Hexo+GitHub搭建个人博客，实现云端编辑、一键发文 - 甜点cc - 博客园
+https://www.cnblogs.com/all-smile/p/16608503.html
+
+    "hexo-renderer-typst": "^0.5.0-rc7",
+	
+	
 git add . & git commit -m "夜梦又更新hexo了" & git push origin gh-pages
 
 $fonts-sans-serif: Roboto, Helvetica, Tahoma, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", "Noto Sans CJK", sans-serif;
