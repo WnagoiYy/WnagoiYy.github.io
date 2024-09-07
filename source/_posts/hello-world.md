@@ -96,3 +96,29 @@ https://tech.yemengstar.com/github-actions-auto-hexo/
 
 Butterfly 主题配置 bug 记录（更新中） | 悠悠の哉
 https://qmike.top/posts/7e01226e
+
+HEXO系列教程 | 使用GitHub Actions部署Hexo / GitHub Pages | 全流程详细介绍 – 夜梦星尘の折腾日记
+https://tech.yemengstar.com/github-actions-auto-hexo/
+
+
+Hexo-Butterfly主题优化-设置网站首页显示背景、文章最上方不显示背景_butterfly设置top img-CSDN博客
+https://blog.csdn.net/zzq0523/article/details/122954271
+
+Hexo+Butterfly主题设置背景透明度和字体 - Code7Rain - 博客园
+https://www.cnblogs.com/Code-Rain/p/16905895.html
+
+hexo的butterfly主题美化，2024最新版，随缘更新_hexo 主题-CSDN博客
+https://blog.csdn.net/JesseXW/article/details/135649752
+
+记录一个hexo+butterfly主题集成gitalk的坑：未找到相关的 Issues 进行评论，请联系@作者初始化创建-CSDN博客
+https://blog.csdn.net/m0_57545353/article/details/128807337
+
+后台
+https://qexo-jqhyrcpyq-wnagoiyys-projects.vercel.app/login/?next=/
+
+
+git add . & git commit -m "夜梦又更新hexo了" & git push origin gh-pages
+
+$fonts-sans-serif: Roboto, Helvetica, Tahoma, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", "Noto Sans CJK", sans-serif;
+$fonts-serif: Georgia, "Times New Roman", PMingLiu, STSong, SimSun, "WenQuanYi Bitmap Song", "Noto Serif CJK", serif;
+$fonts-monospace: JetBrainsMono, "Source Code Pro", Monaco, Menlo, Consolas, "Courier New", Courier, monospace;
