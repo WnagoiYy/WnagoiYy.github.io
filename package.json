@@ -14,7 +14,7 @@
   "dependencies": {
     "@myriaddreamin/typst-ts-node-compiler": "^0.5.1",
     "@myriaddreamin/typst-ts-renderer": "^0.5.0-rc7",
-    "@myriaddreamin/typst.ts": "^0.5.0-rc7",
+    "@myriaddreamin/typst.ts": "^0.5.1",
     "hexo": "^7.3.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
