@@ -1,5 +1,10 @@
 ---
+abbrlink: ''
+categories: []
+date: ''
+tags: []
 title: Hello World
+updated: '2025-10-26T19:21:48.151+08:00'
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
@@ -7,7 +12,7 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 
 ### Create a new post
 
-``` bash
+```bash
 $ hexo new "My New Post"
 ```
 
@@ -15,7 +20,7 @@ More info: [Writing](https://hexo.io/docs/writing.html)
 
 ### Run server
 
-``` bash
+```bash
 $ hexo server
 ```
 
@@ -23,7 +28,7 @@ More info: [Server](https://hexo.io/docs/server.html)
 
 ### Generate static files
 
-``` bash
+```bash
 $ hexo generate
 ```
 
@@ -31,14 +36,11 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 
 ### Deploy to remote sites
 
-``` bash
+```bash
 $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
-
-
-
 
 我在做一个根据图片生成文字的功能，需要提供给大模型一个提示词模板用以根据图片生成文字，但是模板生成的文字和完美的文字描述有些差异，帮我优化修改一下提示词模板，达到能生成完美提示词的要求。
 
@@ -50,12 +52,9 @@ More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
 修改后的提示词模板：
 
-
-
 通义千问生成的提示词：一幅极简数字插画风格的图片。图片的背景是浅蓝色的天空，天空中散布着几朵白云。画面的左右两侧隐约可见抽象的城市建筑，建筑的轮廓和窗户以浅蓝色和白色为主，显得非常简洁和现代。画面的下方是一片深蓝色的区域，可能是水面或地面，与上方的浅蓝色天空形成了鲜明的对比。整体画面给人一种宁静、清新和现代的感觉，光影效果柔和，阴影和纹理处理得非常细腻。
 
 完美的提示词：一幅极简风格的数字插画，画面中有一片明亮的蓝色天空，飘着柔和的云朵。背景处隐约可见抽象的城市建筑，构成了一幅宁静的城市风景。整幅作品的色彩清淡，强调了一种平静而乐观的氛围。图像的下半部分是一个平滑的蓝色渐变，与天空形成了微妙的对比。
-
 
 用一句话概括图片内容，然后详细描述图片中的内容，包括物体、人物、动物以及图片的氛围和情绪。
 图像描述结果
@@ -93,13 +92,11 @@ https://www.hitagi.icu/posts/17b458ca/#%E9%97%AE%E9%A2%98%E5%88%86%E6%9E%90
 HEXO系列教程 | 使用GitHub Actions部署Hexo / GitHub Pages | 全流程详细介绍 – 夜梦星尘の折腾日记
 https://tech.yemengstar.com/github-actions-auto-hexo/
 
-
 Butterfly 主题配置 bug 记录（更新中） | 悠悠の哉
 https://qmike.top/posts/7e01226e
 
 HEXO系列教程 | 使用GitHub Actions部署Hexo / GitHub Pages | 全流程详细介绍 – 夜梦星尘の折腾日记
 https://tech.yemengstar.com/github-actions-auto-hexo/
-
 
 Hexo-Butterfly主题优化-设置网站首页显示背景、文章最上方不显示背景_butterfly设置top img-CSDN博客
 https://blog.csdn.net/zzq0523/article/details/122954271
@@ -131,20 +128,16 @@ https://blog.h3a.moe/src/d07607/#%E5%BC%95%E5%85%A5%E8%87%AA%E5%AE%9A%E4%B9%89-C
 hexo butterfly主题下更换字体 | ZHI'S BLOG
 https://jingzhi1208.github.io/2021/11/26/hexo-butterfly%E4%B8%BB%E9%A2%98%E4%B8%8B%E6%9B%B4%E6%8D%A2%E5%AD%97%E4%BD%93/
 
-
 免费引入商用黑体字体系列整理及 CSS 字体引入亲妈式教程（20230606更新） – 风记星辰
 https://www.thyuu.com/62610
 
 首页 | Butterfly主题美化教程
 https://butterfly.zhheo.com/
 
-
 本站更换了鸿蒙Sans字体_博客字体_华为鸿蒙字体下载_HarmonyOS_Sans_小米字体MiSans_woff2 - 陶小桃Blog
 https://www.52txr.cn/2022/HarmonyFont.html
 
-
-    "hexo-renderer-typst": "^0.5.0-rc7",
-	
+"hexo-renderer-typst": "^0.5.0-rc7",
 git pull origin gh-pages
 
 git add . & git commit -m "夜梦又更新hexo了" & git push origin gh-pages
@@ -152,3 +145,6 @@ git add . & git commit -m "夜梦又更新hexo了" & git push origin gh-pages
 $fonts-sans-serif: Roboto, Helvetica, Tahoma, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", "Noto Sans CJK", sans-serif;
 $fonts-serif: Georgia, "Times New Roman", PMingLiu, STSong, SimSun, "WenQuanYi Bitmap Song", "Noto Serif CJK", serif;
 $fonts-monospace: JetBrainsMono, "Source Code Pro", Monaco, Menlo, Consolas, "Courier New", Courier, monospace;
+
+
+测试修改
